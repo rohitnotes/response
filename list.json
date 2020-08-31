@@ -2,7 +2,7 @@
 	"error_code": 0,
 	"error_message": "errorMessage",
 	"data": {
-		"current_ge": 1,
+		"current_page": 1,
 		"list_value": [{
 			"id": "1",
 			"employee_name": "Tiger Nixon",
