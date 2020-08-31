@@ -2,7 +2,7 @@
 	"error_code": 0,
 	"error_message": "errorMessage",
 	"data": {
-		"me": "morpheus",
+		"name": "morpheus",
 		"job": "leader",
 		"id": "701",
 		"createdAt": "2020-08-31T08:39:58.400Z"
